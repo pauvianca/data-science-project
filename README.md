@@ -20,7 +20,7 @@ It explores Valorant agent data by applying core data science techniques such as
 
 ## 📎 View the Notebook
 
-➡️ [Click here to open the notebook](./3140567_M3_Aut23.ipynb)
+➡️ [Click here to open the notebook](./valorant_agents_analysis.ipynb)
 
 ## 👤 Author
 
